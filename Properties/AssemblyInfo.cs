@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Check_Equality_of_Twolines_based on their end point")]
+[assembly: AssemblyTitle("Compare_two _lines_based _on the_endPoints")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Check_Equality_of_Twolines_based on their end point")]
+[assembly: AssemblyProduct("Compare_two _lines_based _on the_endPoints")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("36807398-bdad-4dcc-b3ae-3cba5a2f7520")]
+[assembly: Guid("7d1b176d-9783-4d27-b4c8-24ccd33fa9a3")]
 
 // Version information for an assembly consists of the following four values:
 //
